@@ -1,6 +1,8 @@
 # Yandex-projects
 The list of projects I've made with Yandex.Practicum
 
+P.S. I highly recommend to watch Project 9 - 'Сборный Проект - 2' here because of plotly graphs: [PRESS IT](https://nbviewer.org/github/Livengo/Yandex-projects/blob/main/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20-%202.ipynb)
+
 ## Project 1 - Базовый Python
 ### Музыка больших городов
 Сравнение Москвы и Петербурга окружено мифами:
